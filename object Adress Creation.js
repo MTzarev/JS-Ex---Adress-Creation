@@ -1,6 +1,6 @@
 function objectAdressCreation(obj) {
 // let key = Object.keys(obj);
-// let value = Object.values(obj)
+// let value = Object.values(obj);
 //let res = [key, value] 
 for (let info of Object.entries(obj)) {
     
